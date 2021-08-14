@@ -1,5 +1,6 @@
 ### Hi Github 👋
-![](https://komarev.com/ghpvc/?username=braymond1776&color=blue)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/braymond1776?style=plastic">
+
 
 <p align="center">
   🌎 📡 💠 🌲 🛰️<br>
